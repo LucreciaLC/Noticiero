@@ -1,0 +1,16 @@
+body {
+  font-family: 'STIX Two Math', serif;
+  background-color: #F4ECF7;
+}
+
+h1{
+  font-family: 'Festive', cursive;
+}
+
+.jumbotron {
+  background-image: url(../imagenes/purple.jfif) !important;
+}
+
+article{
+  background-image: url(../imagenes/cow.png) !important;  
+}
